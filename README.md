@@ -1,9 +1,9 @@
-<img width="960" height="540" alt="bought" src="https://github.com/user-attachments/assets/7fccbad3-5c6d-4b13-8ec6-825769606362" /># Shopping-List-mobile
+# Shopping-List-mobile
 
 # Shopping List
 My first Flutter app: add items, mark them as bought, and delete them.
 ## Screenshots
-![My list](<img width="960" height="540" alt="list" src="https://github.com/user-attachments/assets/0ff84b3b-d58a-4094-8bd6-1ad818351dca" />
+My list(<img width="960" height="540" alt="list" src="https://github.com/user-attachments/assets/0ff84b3b-d58a-4094-8bd6-1ad818351dca" />
 )
 ![An item bought](<img width="960" height="540" alt="bought" src="https://github.com/user-attachments/assets/92a9679e-fea2-48b2-b50a-e0408dd90c1a" />
 )
